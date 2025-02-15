@@ -1,0 +1,35 @@
+
+.student{
+  font-family: Arial, sans-serif;
+  font-size: 2em;
+  border: 5px solid rgba(0, 0, 0, 0.704);
+}
+.student p{
+  margin: 0px;
+}
+
+.card{
+  border: 5px solid rgb(184, 184, 184);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgb(147, 147, 147);
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+  max-width: 250px;
+  display: inline-block;
+}
+.card img{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+.des{
+  color: white;
+  background-color: black;
+}
+.des h3{
+  padding: 5px;
+}
+.des p{
+  padding: 5px;
+}
